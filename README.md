@@ -1,0 +1,4 @@
+testSonata
+==========
+
+show position bug
